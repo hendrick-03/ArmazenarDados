@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ArmazenarDados</string>
+
+    id da tela de login
+    <string name="nome_id">Insira seu username</string>
+    <string name="pass_id">Insira sua senha</string>
+
+    id da tela de cadastro
+    <string name="nome_ed">Insira o nome que deseja</string>
+    <string name="password_ed">Insira sua nova password</string>
+    <string name="passwordconfirm_ed">Insira novamente a sua password</string>
+
+    id da tela de registro
+    <string name="nome_res">Insira seu nome</string>
+    <string name="apelido_res">Insira seu apelido</string>
+    <string name="email_res">Insira seu email</string>
+    <string name="morada">Insira sua morada</string>
+
+</resources>
